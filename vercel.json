@@ -1,0 +1,4 @@
+{
+  "regions": ["iad1"],
+  "rewrites": [{ "source": "/((?!api/|.*\\.(?:jpg|jpeg|png|gif|svg|webp|ico)$).*)", "destination": "/index.html" }]
+}

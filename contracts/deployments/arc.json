@@ -1,0 +1,15 @@
+{
+  "network": "arc",
+  "chainId": 5042,
+  "deployedAt": "2026-10-12T18:25:36.610Z",
+  "usdc": "0x3600000000000000000000000000000000000000",
+  "mockUsdc": false,
+  "rescueGuardian": "0xE6d602411c151EC463f143239b406F7B6Eb123e4",
+  "StablegramPot": "0xD0a0C703b8b9d422660dFc8Ff1c8c636Cb5e60bF",
+  "StablegramBillEscrow": "0x8A58036e94bE3677e35C2E420B20460115c01f0a",
+  "StablegramRosca": "0x358552861E57811F45c9b6fbe95f53bd886fc0C6",
+  "StablegramTab": "0x2796bce3c02e6c8fE3BF6A2424c00052d05216C8",
+  "StablegramAllowance": "0xd6C365e0DD991D51662AdFF006C1b4c384ff09cF",
+  "StablegramNames": "0x33c602542f0e9d26BcbB1eee1AF8d6B4519B737E",
+  "deployer": "0xE6d602411c151EC463f143239b406F7B6Eb123e4"
+}

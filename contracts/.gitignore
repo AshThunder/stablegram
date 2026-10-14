@@ -1,0 +1,14 @@
+# Never commit secrets or funded keys
+.env
+.env.*
+!.env.example
+.wallets/
+wallets.local.json
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+dist/
+node_modules/
+deployments.local.json

@@ -1,0 +1,14 @@
+{
+  "network": "arcTestnet",
+  "chainId": 5042002,
+  "deployedAt": "2026-10-12T12:18:33.848Z",
+  "usdc": "0x3600000000000000000000000000000000000000",
+  "mockUsdc": false,
+  "rescueGuardian": "0xE6d602411c151EC463f143239b406F7B6Eb123e4",
+  "StablegramPot": "0xA883B7A2713b6b00a37A1B4c6cB249d72bd2de3F",
+  "StablegramBillEscrow": "0x2aF6EE718Cbd9F27BfA56B0642C4e5B53e9FA029",
+  "StablegramRosca": "0x3E8d6c70954eB57666F8cE86373ad5b8Be37844c",
+  "StablegramTab": "0xFACC62Bf2871a5D0c3138a5C2f6a9f8c69DE8300",
+  "StablegramAllowance": "0x5E2294c289D1804E650f1C2946dffEBcb384a51A",
+  "deployer": "0xE6d602411c151EC463f143239b406F7B6Eb123e4"
+}
